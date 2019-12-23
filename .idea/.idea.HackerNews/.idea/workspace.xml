@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f51e341d-06ce-426d-a3f0-4fecfdb62855" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HackerNews.UnitTests/Controllers/StoriesControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Converters/TimestampToDateTimeOffsetConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.UnitTests/Services/HackerNewsServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/82/4204aace/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.UnitTests/Converters/TimestampToDateTimeOffsetConverterTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Models/Story.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/CacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Controllers/StoriesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/ICacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/HackerNewsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/IHackerNewsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HackerNews.Api/Controllers/Stories.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.UnitTests/Controllers/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Services/IHackerNewsService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Converters/TimestampToDateTimeConverter.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Converters/TimestampToDateTimeOffsetConverter.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/HackerNews.Api.csproj" />
+        <option value="$PROJECT_DIR$/HackerNews.UnitTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Models/Story.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Controllers/StoriesController.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.UnitTests/Controllers/StoriesControllerTests.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.UnitTests/Converters/TimestampToDateTimeOffsetConverterTests.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Services/CacheService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.UnitTests/Services/HackerNewsServiceTests.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Services/HackerNewsService.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNzTvI1jk7QkJpBgyLKpedsffV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.HackerNews.Api">
+    <configuration name="HackerNews.Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/HackerNews.Api/HackerNews.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="HackerNews.Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HackerNews.Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/HackerNews.Api/HackerNews.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51e341d-06ce-426d-a3f0-4fecfdb62855" name="Default Changelist" comment="" />
+      <created>1577108353779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577108353779</updated>
+      <workItem from="1577108361984" duration="13675000" />
+      <workItem from="1577125757686" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1577125976963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577125976963" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577113523357" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1577125976959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577125976959" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577113523354" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1577125976956">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577125976956" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577113523344" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1577125976961">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577125976961" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577113523355" />
+    <state width="1398" height="184" key="GridCell.Tab.1.bottom" timestamp="1577125204374">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577125204374" />
+    <state width="1398" height="184" key="GridCell.Tab.1.center" timestamp="1577125204373">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577125204373" />
+    <state width="1398" height="184" key="GridCell.Tab.1.left" timestamp="1577125204372">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577125204372" />
+    <state width="1398" height="184" key="GridCell.Tab.1.right" timestamp="1577125204373">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577125204373" />
+    <state width="1398" height="184" key="GridCell.Tab.2.bottom" timestamp="1577125204378">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577125204378" />
+    <state width="1398" height="184" key="GridCell.Tab.2.center" timestamp="1577125204376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1577125204376" />
+    <state width="1398" height="184" key="GridCell.Tab.2.left" timestamp="1577125204375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1577125204375" />
+    <state width="1398" height="184" key="GridCell.Tab.2.right" timestamp="1577125204377">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1577125204377" />
+    <state width="1398" height="184" key="GridCell.Tab.3.bottom" timestamp="1577125204382">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577125204382" />
+    <state width="1398" height="184" key="GridCell.Tab.3.center" timestamp="1577125204381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1577125204381" />
+    <state width="1398" height="184" key="GridCell.Tab.3.left" timestamp="1577125204380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1577125204380" />
+    <state width="1398" height="184" key="GridCell.Tab.3.right" timestamp="1577125204381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1577125204381" />
+    <state width="1398" height="184" key="GridCell.Tab.4.bottom" timestamp="1577125204386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.4.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577125204386" />
+    <state width="1398" height="184" key="GridCell.Tab.4.center" timestamp="1577125204384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.4.center/0.0.1440.900@0.0.1440.900" timestamp="1577125204384" />
+    <state width="1398" height="184" key="GridCell.Tab.4.left" timestamp="1577125204383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.4.left/0.0.1440.900@0.0.1440.900" timestamp="1577125204383" />
+    <state width="1398" height="184" key="GridCell.Tab.4.right" timestamp="1577125204385">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1577125204385" />
+    <state x="320" y="182" key="Rider.ProjectTemplateDialog.Size" timestamp="1577115046661">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="182" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1577115046661" />
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size/0.23.1440.877@0.23.1440.877" timestamp="1577108684038" />
+    <state x="403" y="172" key="RiderGenerateDialog" timestamp="1577111736602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="403" y="172" key="RiderGenerateDialog/0.0.1440.900@0.0.1440.900" timestamp="1577111736602" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1577118992446">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577118992446" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1577122643498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577122643498" />
+  </component>
+</project>

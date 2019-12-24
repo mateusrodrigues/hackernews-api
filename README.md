@@ -45,3 +45,5 @@ dotnet test HackerNews.UnitTests/HackerNews.UnitTests.csproj
 - Replace the ASP.NET Core `IMemoryCache` with a more robust solution, such as Redis, to allow for multiple instances of the API to share the same cache memory.
 - For the `GetStoryDetail_StoryIsInCache_ReadFromCacheAndReturnStory` and `GetStoryDetail_StoryIsNotInCache_SaveToCacheAndReturnStoryFromApi` tests, engineer a better way for object equality instead of asserting the equality of every property.
 - The `CacheService` should be tested with an integration test to allow for better testing with the memory cache external dependency.
+- In `StoriesController`, find a better way to call `GetStoryDetails()` without having to do `.Result`.
+- Remove the Newtonsoft.Json annotations and dependency from the HackerNews.Domain project for better separation of concerns.

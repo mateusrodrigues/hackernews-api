@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using HackerNews.Api.Models;
+using HackerNews.Domain;
 
-namespace HackerNews.Api.Services
+namespace HackerNews.Services
 {
     public interface IHackerNewsService
     {

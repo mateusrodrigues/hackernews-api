@@ -16,6 +16,8 @@
 
     <ItemGroup>
       <ProjectReference Include="..\HackerNews.Api\HackerNews.Api.csproj" />
+      <ProjectReference Include="..\HackerNews.Domain\HackerNews.Domain.csproj" />
+      <ProjectReference Include="..\HackerNews.Services\HackerNews.Services.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,27 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f51e341d-06ce-426d-a3f0-4fecfdb62855" name="Default Changelist" comment="" />
+    <list default="true" id="f51e341d-06ce-426d-a3f0-4fecfdb62855" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HackerNews/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerNews.Domain/HackerNews.Domain.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerNews.Services/HackerNews.Services.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackerNews/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackerNews/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackerNews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackerNews/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Controllers/StoriesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Api/Controllers/StoriesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Converters/TimestampToDateTimeOffsetConverter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Domain/Converters/TimestampToDateTimeOffsetConverter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/HackerNews.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Api/HackerNews.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Models/Story.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Domain/Story.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Services/CacheService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Services/CacheService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Services/HackerNewsService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Services/HackerNewsService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Services/ICacheService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Services/ICacheService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Services/IHackerNewsService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Services/IHackerNewsService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.Api/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.UnitTests/Controllers/StoriesControllerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.UnitTests/Controllers/StoriesControllerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.UnitTests/Converters/TimestampToDateTimeOffsetConverterTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.UnitTests/Converters/TimestampToDateTimeOffsetConverterTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.UnitTests/HackerNews.UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.UnitTests/HackerNews.UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.UnitTests/Services/HackerNewsServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.UnitTests/Services/HackerNewsServiceTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews.sln" beforeDir="false" afterPath="$PROJECT_DIR$/HackerNews.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/HackerNews.UnitTests/Controllers/StoriesControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HackerNews.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Converters/TimestampToDateTimeOffsetConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Domain/Converters/TimestampToDateTimeOffsetConverter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HackerNews.UnitTests/Services/HackerNewsServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/82/4204aace/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HackerNews.UnitTests/Converters/TimestampToDateTimeOffsetConverterTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Models/Story.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/CacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Domain/Story.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Services/CacheService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HackerNews.Api/Controllers/StoriesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/ICacheService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/HackerNewsService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HackerNews.Api/Services/IHackerNewsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Services/ICacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Services/HackerNewsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Services/IHackerNewsService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HackerNews.Api/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HackerNews.Api/appsettings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -34,17 +60,30 @@
         <option value="$PROJECT_DIR$/HackerNews.Api/HackerNews.Api.csproj" />
         <option value="$PROJECT_DIR$/HackerNews.UnitTests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/HackerNews.Api/Models/Story.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Services/CacheService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Services/HackerNewsService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Services/Class1.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Services/CacheService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Services/ICacheService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Services/HackerNewsService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Services/IHackerNewsService.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/ViewModels/StoryViewModel.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Domain/Converters/TimestampToDateTimeOffsetConverter.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Domain/Story.cs" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/appsettings.json" />
+        <option value="$PROJECT_DIR$/HackerNews.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/HackerNews.Api/Controllers/StoriesController.cs" />
         <option value="$PROJECT_DIR$/HackerNews.UnitTests/Controllers/StoriesControllerTests.cs" />
         <option value="$PROJECT_DIR$/HackerNews.UnitTests/Converters/TimestampToDateTimeOffsetConverterTests.cs" />
-        <option value="$PROJECT_DIR$/HackerNews.Api/Services/CacheService.cs" />
-        <option value="$PROJECT_DIR$/HackerNews.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/HackerNews.UnitTests/Services/HackerNewsServiceTests.cs" />
-        <option value="$PROJECT_DIR$/HackerNews.Api/Services/HackerNewsService.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1VNzTvI1jk7QkJpBgyLKpedsffV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -52,6 +91,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -117,6 +157,9 @@
       <updated>1577108353779</updated>
       <workItem from="1577108361984" duration="13675000" />
       <workItem from="1577125757686" duration="219000" />
+      <workItem from="1577127708345" duration="422000" />
+      <workItem from="1577209835128" duration="2887000" />
+      <workItem from="1577213097959" duration="265000" />
     </task>
     <servers />
   </component>
@@ -125,27 +168,40 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1577125976963">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="518" key="GridCell.Tab.0.bottom" timestamp="1577213092619">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577125976963" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577113523357" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1577125976959">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="518" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577213092619" />
+    <state width="1398" height="518" key="GridCell.Tab.0.center" timestamp="1577213092616">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577125976959" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577113523354" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1577125976956">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="518" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577213092616" />
+    <state width="1398" height="518" key="GridCell.Tab.0.left" timestamp="1577213092615">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577125976956" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577113523344" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1577125976961">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="518" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577213092615" />
+    <state width="1398" height="518" key="GridCell.Tab.0.right" timestamp="1577213092617">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577125976961" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577113523355" />
+    <state width="1398" height="518" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577213092617" />
     <state width="1398" height="184" key="GridCell.Tab.1.bottom" timestamp="1577125204374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -210,15 +266,19 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="184" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1577125204385" />
-    <state x="320" y="182" key="Rider.ProjectTemplateDialog.Size" timestamp="1577115046661">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size" timestamp="1577211652194">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="182" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1577115046661" />
-    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size/0.23.1440.877@0.23.1440.877" timestamp="1577108684038" />
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size/0.23.1440.877@0.23.1440.877" timestamp="1577211652194" />
     <state x="403" y="172" key="RiderGenerateDialog" timestamp="1577111736602">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="403" y="172" key="RiderGenerateDialog/0.0.1440.900@0.0.1440.900" timestamp="1577111736602" />
+    <state x="553" y="179" key="RollbackChangesDialog" timestamp="1577210113763">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="553" y="179" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1577210113763" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1577118992446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

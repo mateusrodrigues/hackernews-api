@@ -1,5 +1,5 @@
 using System;
-using HackerNews.Api.Converters;
+using HackerNews.Domain.Converters;
 using Newtonsoft.Json;
 using Xunit;
 

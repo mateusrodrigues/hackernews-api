@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using HackerNews.Api.Models;
-using HackerNews.Api.Services;
+using HackerNews.Domain;
+using HackerNews.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HackerNews.Api.Controllers
@@ -29,11 +29,14 @@ namespace HackerNews.Api.Controllers
         {
             var result = new List<Story>();
             var stories = await _service.GetBestStoriesIds();
-
-            foreach (var story in stories.Take(20))
-                result.Add(await _service.GetStoryDetail(story));
             
-            return Ok(result);
+            Parallel.ForEach(stories, s =>
+                result.Add(_service.GetStoryDetail(s).Result));
+
+            return Ok(result
+                .OrderByDescending(s => s.Score)
+                .Take(20)
+                .ToList());
         }
     }
 }

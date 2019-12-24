@@ -1,7 +1,7 @@
 using System;
 using Newtonsoft.Json;
 
-namespace HackerNews.Api.Converters
+namespace HackerNews.Domain.Converters
 {
     public class TimestampToDateTimeOffsetConverter : JsonConverter<DateTimeOffset>
     {

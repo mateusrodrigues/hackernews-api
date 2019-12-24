@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using HackerNews.Api.Controllers;
-using HackerNews.Api.Models;
-using HackerNews.Api.Services;
+using HackerNews.Domain;
+using HackerNews.Services;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 using Xunit;

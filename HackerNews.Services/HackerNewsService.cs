@@ -1,12 +1,10 @@
-using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
-using HackerNews.Api.Models;
-using Microsoft.Extensions.Caching.Memory;
+using HackerNews.Domain;
 using Newtonsoft.Json;
 
-namespace HackerNews.Api.Services
+namespace HackerNews.Services
 {
     public class HackerNewsService : IHackerNewsService
     {

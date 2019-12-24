@@ -1,8 +1,8 @@
 using System;
-using HackerNews.Api.Converters;
+using HackerNews.Domain.Converters;
 using Newtonsoft.Json;
 
-namespace HackerNews.Api.Models
+namespace HackerNews.Domain
 {
     public class Story
     {

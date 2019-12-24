@@ -1,4 +1,4 @@
-namespace HackerNews.Api.Services
+namespace HackerNews.Services
 {
     public interface ICacheService
     {

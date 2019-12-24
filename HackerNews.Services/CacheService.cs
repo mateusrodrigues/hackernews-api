@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Extensions.Caching.Memory;
 
-namespace HackerNews.Api.Services
+namespace HackerNews.Services
 {
     public class CacheService : ICacheService
     {

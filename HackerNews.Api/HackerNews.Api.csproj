@@ -7,11 +7,33 @@
     <ItemGroup>
       <Compile Remove="Controllers\WeatherForecastController.cs" />
       <Compile Remove="WeatherForecast.cs" />
+      <Compile Remove="Services\**" />
+      <Compile Remove="Models\**" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
       <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc5" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Services\**" />
+      <EmbeddedResource Remove="Models\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Services\**" />
+      <None Remove="Models\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Services\**" />
+      <Content Remove="Models\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HackerNews.Domain\HackerNews.Domain.csproj" />
+      <ProjectReference Include="..\HackerNews.Services\HackerNews.Services.csproj" />
     </ItemGroup>
 
     <PropertyGroup>

@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Api", "HackerNew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.UnitTests", "HackerNews.UnitTests\HackerNews.UnitTests.csproj", "{837DC10A-C87F-42A8-9E9D-744109BA411E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Domain", "HackerNews.Domain\HackerNews.Domain.csproj", "{C6293127-B0EA-4C1D-BF6A-E2E97ED0433B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews.Services", "HackerNews.Services\HackerNews.Services.csproj", "{F28F3C13-807A-4C26-BCC3-F856B741BFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{837DC10A-C87F-42A8-9E9D-744109BA411E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{837DC10A-C87F-42A8-9E9D-744109BA411E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{837DC10A-C87F-42A8-9E9D-744109BA411E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6293127-B0EA-4C1D-BF6A-E2E97ED0433B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6293127-B0EA-4C1D-BF6A-E2E97ED0433B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6293127-B0EA-4C1D-BF6A-E2E97ED0433B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6293127-B0EA-4C1D-BF6A-E2E97ED0433B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28F3C13-807A-4C26-BCC3-F856B741BFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28F3C13-807A-4C26-BCC3-F856B741BFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28F3C13-807A-4C26-BCC3-F856B741BFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28F3C13-807A-4C26-BCC3-F856B741BFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
